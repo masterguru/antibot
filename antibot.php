@@ -64,7 +64,7 @@ $langs = array(
  *
  */
 
-$get_msg['en'] = $page_header . '<h1>WARNING! Are you human?</h1>
+$get_msg['en'] = '<h1>WARNING! Are you human?</h1>
     {lang_output}
     <p>This is first time you try to access to this page from your current IP (connection).</p>
     <p>Press button to continue. You won\'t see again this warning from this IP.</p>
@@ -72,9 +72,9 @@ $get_msg['en'] = $page_header . '<h1>WARNING! Are you human?</h1>
       <input type="hidden" name="query_string" value="{query_string}">
       <input type="hidden" name="actionname" value="{actionname}" />
       <input type="submit" value="Click here to continue"/>
-    </form>' . $page_footer;
+    </form>';
 
-$get_msg['es'] = $page_header . '<h1>ATENCIÓN! ¿Eres humano?</h1>     
+$get_msg['es'] = '<h1>ATENCIÓN! ¿Eres humano?</h1>     
     {lang_output}
     <p>Es la primera vez que accedes a esta página desde tu actual IP (conexión).</p>
     <p>Pulsa el siguiente botón para continuar. No volverás a ver este aviso desde esta IP.</p>
@@ -82,9 +82,9 @@ $get_msg['es'] = $page_header . '<h1>ATENCIÓN! ¿Eres humano?</h1>
       <input type="hidden" name="query_string" value="{query_string}">
       <input type="hidden" name="actionname" value="{actionname}" />
       <input type="submit" value="Pulsa aquí para continuar"/>
-    </form>' . $page_footer;
+    </form>';
 
-$get_msg['ca'] = $page_header . '<h1>ATENCIÓ! Ets humà?</h1>     
+$get_msg['ca'] = '<h1>ATENCIÓ! Ets humà?</h1>     
     {lang_output}
     <p>Es la primera vegada que accedeixes a aquesta pàgina des de la teva IP actual (conexió).</p>
     <p>Prem el següent butó per continuar. No tornaràs a veure aquest avís des de la teva IP actual.</p>
@@ -92,9 +92,9 @@ $get_msg['ca'] = $page_header . '<h1>ATENCIÓ! Ets humà?</h1>
       <input type="hidden" name="query_string" value="{query_string}">
       <input type="hidden" name="actionname" value="{actionname}" />
       <input type="submit" value="Fes clic aquí per continuar"/>
-    </form>' . $page_footer;
+    </form>';
 
-$get_msg['fr'] = $page_header . '<h1>ATTENTION! Êtes-vous humain?</h1>     
+$get_msg['fr'] = '<h1>ATTENTION! Êtes-vous humain?</h1>     
     {lang_output}
     <p>C\'est la première fois que vous accédez à cette page à partir de votre adresse IP actuelle (de connexion).</p>
     <p>Cliquez sur le bouton ci-dessous pour continuer. Vous ne verrez jamais cette annonce de cette adresse IP.</p>
@@ -102,7 +102,7 @@ $get_msg['fr'] = $page_header . '<h1>ATTENTION! Êtes-vous humain?</h1>
       <input type="hidden" name="query_string" value="{query_string}">
       <input type="hidden" name="actionname" value="{actionname}" />
       <input type="submit" value="Cliquez pour continuer"/>
-    </form>' . $page_footer;
+    </form>';
 
 /** DO NOT MODIFY UNDER THIS LINE **/
 
