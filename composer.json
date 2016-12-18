@@ -14,5 +14,5 @@
   "license": "GNU",
   "autoload": {
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "dev-master"
 }
