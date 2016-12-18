@@ -3,7 +3,7 @@
   "description": "Antibot Script",
   "require": {
     "php": "^5.3.3.||5.6"
-  }
+  },
   "autoload": {
   }
 }
