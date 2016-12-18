@@ -5,12 +5,12 @@
     "php": ">=5.3.3"
   },
   "homepage": "https://github.com/masterguru/antibot",
-  "authors": {
+  "authors": [
     {
       "name": "masterguru",
       "homepage": "http://masterguru.net"
     }
-  },
+   ],
   "license": "GNU",
   "autoload": {
   }
