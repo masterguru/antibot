@@ -2,7 +2,8 @@
   "name": "masterguru/antibot",
   "description": "Antibot Script",
   "require": {
-    "php": ">=5.3.3"
+    "php": ">=5.3.3",
+    "masterguru/antibot": "dev-master"
   },
   "homepage": "https://github.com/masterguru/antibot",
   "authors": [
