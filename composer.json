@@ -6,8 +6,10 @@
   },
   "homepage": "https://github.com/masterguru/antibot",
   "authors": {
-    "name": "masterguru",
-    "homepage": "http://masterguru.net"
+    {
+      "name": "masterguru",
+      "homepage": "http://masterguru.net"
+    }
   },
   "license": "GNU",
   "autoload": {
