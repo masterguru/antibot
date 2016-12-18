@@ -30,7 +30,7 @@
  * 2 - Add this line at top of your login script file:
  
  include('antibot.php');
- 
+  
  * TIP: You can rename this script to any another name to avoid bots 
  * could test if it exists.  Be sure to change the include() file name in 
  * your login script if done.
