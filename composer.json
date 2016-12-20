@@ -13,6 +13,5 @@
    ],
   "license": "GNU",
   "autoload": {
-  },
-  "minimum-stability": "stable"
+  }
 }
