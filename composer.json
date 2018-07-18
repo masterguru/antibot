@@ -11,7 +11,7 @@
       "homepage": "http://masterguru.net"
     }
    ],
-  "license": "GNU",
+  "license": "GPL-2.0-only",
   "autoload": {
   }
 }
